@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/LittleSeven86/LittleSeven86/graphs/contributors"><img src="https://img.shields.io/github/contributors/LittleSeven86/LittleSeven86?color=blue"></a>
     <a href="https://github.com/LittleSeven86/LittleSeven86/stargazers"><img src="https://img.shields.io/github/stars/LittleSeven86/LittleSeven86?logo=github"></a>
     <a href="https://github.com/LittleSeven86/LittleSeven86/network/members"><img src="https://img.shields.io/github/forks/LittleSeven86/LittleSeven86?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=LittleSeven86.LittleSeven86" alt="visitors"/>   
 </p>
 
 ![](./src/header_.png)
